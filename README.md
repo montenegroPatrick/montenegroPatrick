@@ -1,7 +1,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <span style="color:#0ac3a7"> HelloWorld, Welcome to my Github </span>
 
-##  Montenegro Patrick =>   Web Developper specialized in React 
+##  Montenegro Patrick || Web Developper specialized in React 
 
 - 🔭 I’m currently working on my ending project school <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJme8ObsGG3dRlk13Og2ovlz-axjs5UB_tNU5toF4&s" width="20px"> => stageSeller app to help intership to find an buisiness and inversely || comming at the end of arpil
 - 🌱 I’m currently learning Symphony on my own
@@ -25,3 +25,8 @@
 ![React Testing Library](https://img.shields.io/badge/-Testing%20Library-black?style=for-the-badge&logo=testing-library&logoColor=E3332&color=ffffff)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=for-the-badge&logo=laravel&color=ffffff)
 ![Symphony](https://img.shields.io/badge/-Symphony-black?style=for-the-badge&logo=symphony&color=ffffff)
+ 
+
+
+
+  
