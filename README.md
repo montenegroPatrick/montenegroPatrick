@@ -3,7 +3,7 @@
 
 ##  Montenegro Patrick =>   Web Developper specialized in React 
 
-- 🔭 I’m currently working on my ending project school <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJme8ObsGG3dRlk13Og2ovlz-axjs5UB_tNU5toF4&s" width="15px"> => stageSeller app to help intership to find an buisiness and inversely || comming at the end of arpil
+- 🔭 I’m currently working on my ending project school <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJme8ObsGG3dRlk13Og2ovlz-axjs5UB_tNU5toF4&s" width="20px"> => stageSeller app to help intership to find an buisiness and inversely || comming at the end of arpil
 - 🌱 I’m currently learning Symphony on my own
 
 => link of my portofolio comming soon !
