@@ -19,6 +19,7 @@
 
 ### <span style="color:#0ac3a7; font-style:italic">Framwork / Library / Packages</span>
 
+![next](https://img.shields.io/badge/-react-black?style=for-the-badge&logo=next&logoColor=61DAFB&color=ffffff)
 ![React](https://img.shields.io/badge/-react-black?style=for-the-badge&logo=react&logoColor=61DAFB&color=ffffff)
 ![Npm packages](https://img.shields.io/badge/-npm-black?style=for-the-badge&logo=npm&color=ffffff)
 ![Yarn packages](https://img.shields.io/badge/-yarn-black?style=for-the-badge&logo=yarn&color=ffffff)
