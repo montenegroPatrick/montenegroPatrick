@@ -4,6 +4,7 @@
 ##  Montenegro Patrick || Web Developper specialized in ReactJS NextJs
 
 - 🔭 I’m currently looking for a job
+- [My personnal webSite](https://portofolio-montenegropatrick.vercel.app/) --- steel in progress !
 - you can look over my repositories down here :) !
 
 ### <span style="color:#0ac3a7; font-style:italic">🤖 Languages ...
